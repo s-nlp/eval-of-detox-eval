@@ -15,3 +15,7 @@ Works for:
 # see arguments with provided texts and parameters
 python evaluation/evaluate.py
 ```
+
+## How to make plots
+- Notebook [TextDetoxEval]: [click](vizualize/plot_textdetoxeval.ipynb)
+- Notebook [RUSSE2022]: [click](vizualize/plot_russe2022.ipynb)
